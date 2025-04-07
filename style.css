@@ -1,1 +1,12 @@
+body{
+ 
+    background-color: blue;
+    width: 100%;
+}
 
+
+.carousel-slide{
+   margin-left:450px ;
+    text-align: center;
+    width: 50%;
+}
